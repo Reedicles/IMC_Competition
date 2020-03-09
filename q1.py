@@ -12,6 +12,7 @@ def Jonah():
 	print("Jonah Coded this")
 	print("I am a kingggggg of C becasue that is the only real language")
 	print("I am making changes now")
+	print("Python is a fake language")
 
 
 
