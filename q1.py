@@ -10,7 +10,7 @@ def Joel():
 
 def Jonah():
 	print("Jonah Coded this")
-	print("I am a kingggggg")
+	print("I am NOT a kingggggg")
 	print("I am making changes now")
 
 
