@@ -1,5 +1,7 @@
 def Reede():
 	print("Reede Coded this")
+	print("Reede is also a king")
+	print("I like hacks")
 	Joel()
 
 
